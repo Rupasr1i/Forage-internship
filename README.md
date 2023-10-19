@@ -42,8 +42,5 @@ Thank you for visiting this repository, and I hope you find the insights and vis
 
 
 
-[POWERBI DASHBOARD CHURN ANALYSIS]  (https://rb.gy/et277)
-
-
 
 
