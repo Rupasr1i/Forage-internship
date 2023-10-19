@@ -31,16 +31,14 @@ Services Each Customer Has Signed Up For: We explored the services customers sub
 
 To make our findings more accessible and actionable, we used Power BI to create compelling visualizations that provide a clear understanding of the data. These visualizations can help in decision-making and identifying areas for improvement.
 
-**How to Use This Repository**
-
-**Data Sources:** You can find the raw data sources in the data directory.
-**Power BI Reports:** Our Power BI reports and dashboards are available in the powerbi_visualizations folder.
 
 Feel free to explore our project and leverage the insights to drive improvements in call centre operations and customer retention strategies. If you have any questions or suggestions, please don't hesitate to reach out. Your feedback is valuable!
 
 Thank you for visiting this repository, and I hope you find the insights and visualizations helpful.
 
 [POWERBI DASHBOARD CALL CENTRE]     (https://rb.gy/680i8)
+
+[POWER BI DASHBOARD CHURN ANALYSIS]    (https://rb.gy/e3yh3)
 
 
 
