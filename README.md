@@ -36,9 +36,9 @@ Feel free to explore our project and leverage the insights to drive improvements
 
 Thank you for visiting this repository, and I hope you find the insights and visualizations helpful.
 
-[POWERBI DASHBOARD CALL CENTRE]     (https://rb.gy/680i8)
+[POWERBI DASHBOARD CALL CENTRE]     (https://app.powerbi.com/links/6uHMdKqCs4?ctid=209a70f5-a678-4831-9798-ea1ea04aa9b8&pbi_source=linkShare)
 
-[POWER BI DASHBOARD CHURN ANALYSIS]    (https://rb.gy/e3yh3)
+[POWER BI DASHBOARD CHURN ANALYSIS]    (https://app.powerbi.com/links/zBbcP-Qv_5?ctid=209a70f5-a678-4831-9798-ea1ea04aa9b8&pbi_source=linkShare)
 
 
 
